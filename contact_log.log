@@ -1,0 +1,10 @@
+23.12.2022 19:29:23:   SELECT COUNT(cont_id) from sec_tab where cont_id= 1
+23.12.2022 19:29:23:   SELECT * FROM sec_tab JOIN prim_tab ON sec_tab.cont_id = 1
+23.12.2022 19:29:24:   SELECT COUNT(cont_id) from sec_tab where cont_id= 2
+23.12.2022 19:29:24:   SELECT * FROM sec_tab JOIN prim_tab ON sec_tab.cont_id = 2
+23.12.2022 19:29:39:   SELECT COUNT(cont_id) from sec_tab where cont_id= 3
+23.12.2022 19:29:39:   SELECT * FROM sec_tab JOIN prim_tab ON sec_tab.cont_id = 3
+23.12.2022 19:29:42:   SELECT COUNT(cont_id) from sec_tab where cont_id= 4
+23.12.2022 19:29:42:   SELECT * FROM sec_tab JOIN prim_tab ON sec_tab.cont_id = 4
+23.12.2022 19:29:44:   SELECT COUNT(cont_id) from sec_tab where cont_id= 2
+23.12.2022 19:29:44:   SELECT * FROM sec_tab JOIN prim_tab ON sec_tab.cont_id = 2
